@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleImage</string>
+    <string name="app_key">98jbsw6fhgz81t0</string>
+    <string name="authenticate">Log in with DropBox</string>
+
+    <string name="images">Images</string>
+    <string name="refresh">Refresh</string>
+    <string name="change_view">Change View</string>
+    <string name="signout">Sign out</string>
+    <string name="title_activity_show_images">ShowImagesActivity</string>
+</resources>

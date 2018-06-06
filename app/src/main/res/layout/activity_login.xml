@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context="com.octavian.simpleimage.LoginActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:paddingTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:text="@string/app_name"
+        android:textColor="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:paddingTop="120dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cloud_storage"
+        android:paddingBottom="10dp"/>
+
+    <Button
+        android:id="@+id/authenticate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="loginClick"
+        android:text="@string/authenticate"
+        android:textColor="@color/colorPrimaryDark"
+        android:backgroundTint="#FFFFFF"
+        />
+
+</LinearLayout>
