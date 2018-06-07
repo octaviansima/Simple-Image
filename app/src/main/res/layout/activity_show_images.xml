@@ -19,10 +19,19 @@
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
 
 
-    <ImageView
-        android:id="@+id/test"
-        android:layout_width="240pt"
-        android:layout_height="240pt" />
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+    </ListView>
 
+    <GridView
+        android:id="@+id/grid_view"
+        android:numColumns="4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+    </GridView>
 
 </LinearLayout>
