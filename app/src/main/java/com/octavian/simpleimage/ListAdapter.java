@@ -40,6 +40,7 @@ public class ListAdapter extends ArrayAdapter<String> {
         }
         TextView tv = view.findViewById(R.id.list_text);
         ImageButton im = view.findViewById(R.id.list_image);
+        im.setTag(link.get(position));
         tv.setText(name.get(position));
         Picasso.get().load(link.get(position)).into(im);
         return view;

@@ -47,6 +47,7 @@
             android:name="com.octavian.simpleimage.ShowImagesActivity"
             android:label="@string/title_activity_show_images"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.octavian.simpleimage.ImageActivity" />
 
         <provider
             android:name="com.squareup.picasso.PicassoProvider"

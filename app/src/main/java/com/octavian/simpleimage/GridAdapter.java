@@ -38,6 +38,7 @@ public class GridAdapter extends ArrayAdapter<String> {
         }
         TextView tv = view.findViewById(R.id.grid_text);
         ImageButton im = view.findViewById(R.id.grid_image);
+        im.setTag(link.get(position));
         tv.setText(name.get(position));
         Picasso.get().load(link.get(position)).into(im);
         return view;

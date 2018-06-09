@@ -1224,6 +1224,10 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0852e099cb448e6e1bd4b670d7531e3/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_activity_image.xml.flat",
+        "source": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/res/layout/activity_image.xml"
+    },
+    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },

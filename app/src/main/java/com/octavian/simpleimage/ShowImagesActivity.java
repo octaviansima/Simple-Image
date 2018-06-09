@@ -165,7 +165,19 @@ public class ShowImagesActivity extends AppCompatActivity {
     }
 
     public void imageClick(View view) {
-        Toast.makeText(this, "clicked picture", Toast.LENGTH_SHORT).show();
-        //todo: create a new activity for the blow up of the image.
+
+        Intent intent = new Intent(this, ImageActivity.class);
+        if (displayListView) {
+            ListView v = findViewById(R.id.list_view);
+            ImageButton img = v.findViewById(R.id.list_image);
+            intent.putExtra("res", img.getTag().toString());
+
+        } else {
+            GridView v = findViewById(R.id.grid_view);
+            ImageButton img = v.findViewById(R.id.grid_image);
+            intent.putExtra("res", img.getTag().toString());
+        }
+        //todo: fix problem where setting the image tag always sets the first image loaded.
+        startActivity(intent);
     }
 }
