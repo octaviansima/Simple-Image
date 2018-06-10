@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SimpleImage</string>
+    <string name="app_name">Simple Image</string>
     <string name="app_key">98jbsw6fhgz81t0</string>
     <string name="authenticate">Log in with DropBox</string>
 

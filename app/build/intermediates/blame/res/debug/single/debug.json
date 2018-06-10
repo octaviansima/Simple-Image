@@ -60,12 +60,12 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1f3bb194bd2f0f57a21f96d36f48904/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1f3bb194bd2f0f57a21f96d36f48904/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
@@ -112,20 +112,20 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -144,12 +144,12 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -192,24 +192,24 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0852e099cb448e6e1bd4b670d7531e3/res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -248,20 +248,20 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0852e099cb448e6e1bd4b670d7531e3/res/layout/design_layout_tab_icon.xml"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0852e099cb448e6e1bd4b670d7531e3/res/layout/design_layout_tab_icon.xml"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -320,24 +320,24 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0852e099cb448e6e1bd4b670d7531e3/res/drawable-xhdpi-v4/design_ic_visibility.png"
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0852e099cb448e6e1bd4b670d7531e3/res/drawable-xhdpi-v4/design_ic_visibility.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -412,10 +412,6 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1f3bb194bd2f0f57a21f96d36f48904/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable_cloud_storage.png.flat",
-        "source": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/res/drawable/cloud_storage.png"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/color/abc_tint_btn_checkable.xml"
     },
@@ -440,12 +436,12 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -532,12 +528,12 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b606a5358a39facfa749fb3ff2cce2a4/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1f3bb194bd2f0f57a21f96d36f48904/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1f3bb194bd2f0f57a21f96d36f48904/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1f3bb194bd2f0f57a21f96d36f48904/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
@@ -618,10 +614,6 @@
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable_image_file.png.flat",
-        "source": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/res/drawable/image_file.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -972,10 +964,6 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b1c1dbbcd6349a590860e02d531bf282/res/anim/tooltip_enter.xml"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable_add_image.png.flat",
-        "source": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/res/drawable/add_image.png"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0852e099cb448e6e1bd4b670d7531e3/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
@@ -1006,6 +994,10 @@
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable_cloud.png.flat",
+        "source": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/res/drawable/cloud.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
@@ -1480,10 +1472,6 @@
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable_refresh.png.flat",
-        "source": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/res/drawable/refresh.png"
-    },
-    {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
@@ -1694,10 +1682,6 @@
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable_change_view.png.flat",
-        "source": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/res/drawable/change_view.png"
     },
     {
         "merged": "/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",

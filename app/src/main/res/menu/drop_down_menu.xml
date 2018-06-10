@@ -4,7 +4,6 @@
     android:layout_height="match_parent"
     android:layout_width="match_parent"
     android:id="@+id/dropdownmenu"
-    app:icon="@drawable/change_view"
     app:titleTextColor="#FFFFFF"
     android:background="@color/colorPrimary"
     android:theme="@style/ThemeOverlay.AppCompat.Dark"
