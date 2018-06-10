@@ -50,6 +50,7 @@ public class ShowImagesActivity extends AppCompatActivity {
         FILE_EXTENSIONS.add("jpg");
         FILE_EXTENSIONS.add("png");
         FILE_EXTENSIONS.add("gif");
+        FILE_EXTENSIONS.add("tif");
     }
     static ArrayList<String> name = new ArrayList<>();
     static ArrayList<String> link = new ArrayList<>();
