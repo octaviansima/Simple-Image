@@ -9,6 +9,7 @@
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_margin="10dp"
+        android:background="@android:color/transparent"
         android:onClick="imageClick" />
 
     <android.support.v7.widget.AppCompatTextView
@@ -16,6 +17,6 @@
         android:layout_width="match_parent"
         android:layout_height="73dp"
         android:layout_margin="15dp"
-        android:textSize="20dp"/>
+        android:textSize="20sp"/>
 
 </LinearLayout>

@@ -10,10 +10,21 @@ import com.squareup.picasso.Picasso;
 
 public class ImageActivity extends AppCompatActivity {
 
+    ImageView imgView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_image);
+
+        imgView = findViewById(R.id.individual_image);
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+
+        imgView.setImageResource(android.R.color.transparent);
 
         Intent intent = getIntent();
         String res = intent.getStringExtra("res");

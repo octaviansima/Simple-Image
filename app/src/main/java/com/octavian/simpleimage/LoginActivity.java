@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.Window;
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
+import android.widget.Button;
 import android.widget.TextView;
 import com.dropbox.core.DbxRequestConfig;
 import com.dropbox.core.android.Auth;
@@ -25,9 +26,14 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
         TextView tv = findViewById(R.id.title);
-        Animation animation = new AlphaAnimation(0.0f, 1.0f);
-        animation.setDuration(2000);
-        tv.startAnimation(animation);
+        Animation tanimation = new AlphaAnimation(0.0f, 1.0f);
+        tanimation.setDuration(2000);
+        tv.startAnimation(tanimation);
+
+        Button bt = findViewById(R.id.authenticate);
+        Animation banimation = new AlphaAnimation(0.0f, 1.0f);
+        banimation.setDuration(1000);
+        bt.startAnimation(banimation);
     }
 
     @Override

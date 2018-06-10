@@ -1,5 +1,6 @@
 package com.octavian.simpleimage;
 
+import android.animation.Animator;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -54,6 +55,8 @@ public class ShowImagesActivity extends AppCompatActivity {
     static ArrayList<String> link = new ArrayList<>();
     static boolean displayListView = true;
 
+    private Animator currAnimator;
+
     private static class RetrieveAccount extends AsyncTask<String, Void, Void> {
 
         @Override
@@ -75,7 +78,11 @@ public class ShowImagesActivity extends AppCompatActivity {
                 for (Metadata data: CLIENT.files().listFolder("").getEntries()) {
                     String ext = data.getName().split("\\.")[1].toLowerCase();
                     if (FILE_EXTENSIONS.contains(ext)) {
-                        name.add(data.getName().toLowerCase());
+                        if (data.getName().length() > 17) {
+                            name.add(data.getName().toLowerCase().substring(0, 12).concat("... .").concat(ext));
+                        } else {
+                            name.add(data.getName().toLowerCase());
+                        }
                         link.add(CLIENT.files().getTemporaryLink(data.getPathLower()).getLink());
                     }
 
@@ -168,16 +175,13 @@ public class ShowImagesActivity extends AppCompatActivity {
 
         Intent intent = new Intent(this, ImageActivity.class);
         if (displayListView) {
-            ListView v = findViewById(R.id.list_view);
-            ImageButton img = v.findViewById(R.id.list_image);
-            intent.putExtra("res", img.getTag().toString());
+            intent.putExtra("res", view.getTag().toString());
 
         } else {
-            GridView v = findViewById(R.id.grid_view);
-            ImageButton img = v.findViewById(R.id.grid_image);
-            intent.putExtra("res", img.getTag().toString());
+            intent.putExtra("res", view.getTag().toString());
         }
         //todo: fix problem where setting the image tag always sets the first image loaded.
         startActivity(intent);
+
     }
 }
