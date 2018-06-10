@@ -1,39 +1,25 @@
 package com.octavian.simpleimage;
 
-import android.animation.Animator;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.Toolbar;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.GridView;
-import android.widget.ImageButton;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
-import android.widget.Spinner;
-import android.widget.SpinnerAdapter;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import com.dropbox.core.DbxException;
 import com.dropbox.core.DbxRequestConfig;
 import com.dropbox.core.v2.DbxClientV2;
-import com.dropbox.core.v2.files.ListFolderResult;
 import com.dropbox.core.v2.files.Metadata;
 import com.dropbox.core.v2.users.FullAccount;
-import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.HashSet;
 
 public class ShowImagesActivity extends AppCompatActivity {
@@ -55,8 +41,6 @@ public class ShowImagesActivity extends AppCompatActivity {
     static ArrayList<String> name = new ArrayList<>();
     static ArrayList<String> link = new ArrayList<>();
     static boolean displayListView = true;
-
-    private Animator currAnimator;
 
     private static class RetrieveAccount extends AsyncTask<String, Void, Void> {
 
@@ -175,14 +159,7 @@ public class ShowImagesActivity extends AppCompatActivity {
     public void imageClick(View view) {
 
         Intent intent = new Intent(this, ImageActivity.class);
-        if (displayListView) {
-            intent.putExtra("res", view.getTag().toString());
-
-        } else {
-            intent.putExtra("res", view.getTag().toString());
-        }
-        //todo: fix problem where setting the image tag always sets the first image loaded.
+        intent.putExtra("res", view.getTag(R.id.individual_image).toString());
         startActivity(intent);
-
     }
 }

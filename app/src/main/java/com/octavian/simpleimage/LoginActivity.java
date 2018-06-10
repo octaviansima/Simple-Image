@@ -1,18 +1,13 @@
 package com.octavian.simpleimage;
 
-import android.app.ActionBar;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.view.Window;
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
-import android.widget.Button;
 import android.widget.TextView;
-import com.dropbox.core.DbxRequestConfig;
 import com.dropbox.core.android.Auth;
-import com.dropbox.core.v2.DbxClientV2;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -29,11 +24,6 @@ public class LoginActivity extends AppCompatActivity {
         Animation tanimation = new AlphaAnimation(0.0f, 1.0f);
         tanimation.setDuration(2000);
         tv.startAnimation(tanimation);
-
-        Button bt = findViewById(R.id.authenticate);
-        Animation banimation = new AlphaAnimation(0.0f, 1.0f);
-        banimation.setDuration(1000);
-        bt.startAnimation(banimation);
     }
 
     @Override

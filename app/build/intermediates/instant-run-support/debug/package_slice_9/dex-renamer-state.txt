@@ -1,4 +1,4 @@
-#Sat Jun 09 15:15:09 EDT 2018
+#Sun Jun 10 16:29:12 EDT 2018
 base.0=/Users/octaviansima/Documents/Development/Android/SimpleImage/app/build/intermediates/transforms/dexMerger/debug/9
 path.0=classes.dex
 renamed.0=classes.dex

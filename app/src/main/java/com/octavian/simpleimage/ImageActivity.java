@@ -3,10 +3,9 @@ package com.octavian.simpleimage;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.Toolbar;
 import android.widget.ImageView;
 
-import com.squareup.picasso.Picasso;
+import com.bumptech.glide.Glide;
 
 public class ImageActivity extends AppCompatActivity {
 
@@ -29,6 +28,6 @@ public class ImageActivity extends AppCompatActivity {
         Intent intent = getIntent();
         String res = intent.getStringExtra("res");
         ImageView img = findViewById(R.id.individual_image);
-        Picasso.get().load(res).into(img);
+        Glide.with(this).load(res).into(img);
     }
 }

@@ -1,6 +1,5 @@
 package com.octavian.simpleimage;
 
-import android.app.Activity;
 import android.content.Context;
 import android.support.annotation.NonNull;
 import android.view.LayoutInflater;
@@ -10,10 +9,9 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.squareup.picasso.Picasso;
+import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 
 public class ListAdapter extends ArrayAdapter<String> {
 
@@ -40,9 +38,9 @@ public class ListAdapter extends ArrayAdapter<String> {
         }
         TextView tv = view.findViewById(R.id.list_text);
         ImageButton im = view.findViewById(R.id.list_image);
-        im.setTag(link.get(position));
+        im.setTag(R.id.individual_image, link.get(position));
         tv.setText(name.get(position));
-        Picasso.get().load(link.get(position)).into(im);
+        Glide.with(context).load(link.get(position)).into(im);
         return view;
     }
 }

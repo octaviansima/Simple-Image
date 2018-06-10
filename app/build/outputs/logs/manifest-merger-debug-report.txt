@@ -7,7 +7,7 @@ INJECTED from /Users/octaviansima/Documents/Development/Android/SimpleImage/app/
 MERGED from [com.android.support:design:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0852e099cb448e6e1bd4b670d7531e3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b497779495ee8fdd5b97174e0c32fcd8/AndroidManifest.xml:2:1-11:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/35f6d2ea1e95659db5fb377245d2f703/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/e7c22f54e6953f6115078723a5daa87d/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:support-v4:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1c24a99fdc31c2df25f2ee278609f057/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c7af2f72dcefd4ce60bdcfa6e20589f7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/04c8fb7e4d4e4b26453201d30f984172/AndroidManifest.xml:17:1-22:12
@@ -16,7 +16,7 @@ MERGED from [com.android.support:support-core-ui:27.1.1] /Users/octaviansima/.gr
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d985083bcabd477d108c25a6425c5d99/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/510f302e5459e34ad101fe73d3f70f9e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/04d1bdc69cde605392bf00623083cb2a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/152697c014c7c02cfc2578b64980b8bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/4234bdb31a7db3f7dd6cbfbb404ccb17/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b606a5358a39facfa749fb3ff2cce2a4/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1f3bb194bd2f0f57a21f96d36f48904/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6ec4f2074efb3f4f85083ca9da41dc45/AndroidManifest.xml:17:1-22:12
@@ -48,8 +48,10 @@ application
 ADDED from /Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/AndroidManifest.xml:7:5-41:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b497779495ee8fdd5b97174e0c32fcd8/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b497779495ee8fdd5b97174e0c32fcd8/AndroidManifest.xml:9:5-20
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/35f6d2ea1e95659db5fb377245d2f703/AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/35f6d2ea1e95659db5fb377245d2f703/AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/e7c22f54e6953f6115078723a5daa87d/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/e7c22f54e6953f6115078723a5daa87d/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/4234bdb31a7db3f7dd6cbfbb404ccb17/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/4234bdb31a7db3f7dd6cbfbb404ccb17/AndroidManifest.xml:9:5-20
 	android:supportsRtl
 		ADDED from /Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
@@ -124,8 +126,8 @@ MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/octaviansima/.gradl
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a5641c4d7283e001c1b8918ff63a88b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b497779495ee8fdd5b97174e0c32fcd8/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b497779495ee8fdd5b97174e0c32fcd8/AndroidManifest.xml:5:5-7:41
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/35f6d2ea1e95659db5fb377245d2f703/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/35f6d2ea1e95659db5fb377245d2f703/AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/e7c22f54e6953f6115078723a5daa87d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/e7c22f54e6953f6115078723a5daa87d/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-v4:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1c24a99fdc31c2df25f2ee278609f057/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1c24a99fdc31c2df25f2ee278609f057/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c7af2f72dcefd4ce60bdcfa6e20589f7/AndroidManifest.xml:20:5-44
@@ -142,8 +144,8 @@ MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/octavian
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/510f302e5459e34ad101fe73d3f70f9e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/04d1bdc69cde605392bf00623083cb2a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/04d1bdc69cde605392bf00623083cb2a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/152697c014c7c02cfc2578b64980b8bf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/152697c014c7c02cfc2578b64980b8bf/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/4234bdb31a7db3f7dd6cbfbb404ccb17/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/4234bdb31a7db3f7dd6cbfbb404ccb17/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b606a5358a39facfa749fb3ff2cce2a4/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b606a5358a39facfa749fb3ff2cce2a4/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1f3bb194bd2f0f57a21f96d36f48904/AndroidManifest.xml:20:5-44
@@ -166,11 +168,3 @@ INJECTED from /Users/octaviansima/Documents/Development/Android/SimpleImage/app/
 		INJECTED from /Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/AndroidManifest.xml
 		ADDED from /Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/octaviansima/Documents/Development/Android/SimpleImage/app/src/main/AndroidManifest.xml
-provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/35f6d2ea1e95659db5fb377245d2f703/AndroidManifest.xml:8:9-11:40
-	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/35f6d2ea1e95659db5fb377245d2f703/AndroidManifest.xml:10:13-72
-	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/35f6d2ea1e95659db5fb377245d2f703/AndroidManifest.xml:11:13-37
-	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/octaviansima/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/35f6d2ea1e95659db5fb377245d2f703/AndroidManifest.xml:9:13-64
